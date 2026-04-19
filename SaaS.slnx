@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="docker-compose.yml" />
+  </Folder>
+  <Project Path="OrderService/OrderService.csproj" />
+  <Project Path="PaymentService/PaymentService.csproj" />
+  <Project Path="Shared.Contracts/Shared.Contracts.csproj" Id="4db27dc6-c1e5-4e9f-ab94-e28311560198" />
+</Solution>
