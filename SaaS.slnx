@@ -2,6 +2,7 @@
   <Folder Name="/Solution Items/">
     <File Path=".gitignore" />
     <File Path="docker-compose.yml" />
+    <File Path="Jenkinsfile" />
   </Folder>
   <Project Path="OrderService/OrderService.csproj" />
   <Project Path="PaymentService/PaymentService.csproj" />
